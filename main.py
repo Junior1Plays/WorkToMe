@@ -14,8 +14,4 @@ def work(url, tkn):
     }
     rqst = requests.post(url, headers=header, data=payload)
     work(url, tkn)
-work(url, token)n)
-work(url, token) tkn)
-work(url, token)ders=header, data=payload)
-    work(url, tkn)
 work(url, token)
